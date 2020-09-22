@@ -1,0 +1,21 @@
+__________Welcome to Custom MessageBox Designer Updated_______________
+ it is Power Full MessageBox Designer That Enhance 
+Functionality Of Statndard MessageBox Function
+Used in VB With Many Features you Can Add
+Check Boxes ,Time out,Positioned,Show Custom
+Buttons and Many More see screenshoot....Vote it if u like
+________________________________________________________
+Note Extract All Files According to Directory Structure of Zip
+
+ Added
+
+ 1)Play Sound File with MessageBox
+ 
+ 2)Automatically Detect Wav /Mp3 Support
+ 
+ 3)Set Custom icons 
+
+ 4)Set Animated Icons/ Cursors
+
+Note : if you have any Suggestion /Comments /Bugs Leave Feed Back
+Thanks
